@@ -13,3 +13,12 @@ Concept: My second idea is to have three clouds move across the screen. Each clo
 Idea #3: Minimal Shapes
 Concept: My third idea is to give each element of time it’s own distinctive shape. Seconds will be represented by a diamond that changes value each second. Hours will be represented by an elongated rectangle that changes its orientation each hour. Minutes will be represented by a circle that changes hue each minute. 
 
+Idea #4: Overlapping Squares
+There will be three squares aligned on top of one another and aligned to the center of the screen. The clock will use the retinal variable, size, to tell time. Each second, minute, and hour, each square will change value. The gradient from white to black depicts the spectrum of 0-60 seconds, 0-60 minutes, and 0-24 hours. The largest square is seconds, the middle sized square is minutes, and the smallest square is hours.
+
+Idea #5: Position of Dots
+There will be three dots on the screen. They will all move horizontally across the screen, utilizing the retinal variable, position, to tell time. Every second, the dot closest to the top of the screen (seconds) will move to the right. The second dot (minutes), aligned to the middle of the screen, will also move horizontally each minute. Lastly, the third dot, closest to the bottom of the page (hours), will also move horizontally across the screen. The colors of the circles will change on a 24 hour cycle. The colors will change according to a red to blue gradient. The gradient from blue to red depicts the spectrum of 0-60 seconds, 0-60 minutes, and 0-24 hours.
+
+Idea #6: Orientation of 3 Elongated rectangles 
+Three elongated rectangles will be aligned to the center of the screen. Each rectangle will take on a different length with the hour hand being the longest. This clock will rely on the retinal variable, orientation, to tell time. Each rectangle will rotate in regards to the unit of time that it is measuring. 0-360° will represent 0-60 seconds, 0-60 minutes, and 0-24 hours. The colors will change according to a red to blue gradient. The gradient from blue to red depicts the spectrum of 0-60 seconds, 0-60 minutes, and 0-24 hours.
+
