@@ -22,3 +22,15 @@ There will be three dots on the screen. They will all move horizontally across t
 Idea #6: Orientation of 3 Elongated rectangles 
 Three elongated rectangles will be aligned to the center of the screen. Each rectangle will take on a different length with the hour hand being the longest. This clock will rely on the retinal variable, orientation, to tell time. Each rectangle will rotate in regards to the unit of time that it is measuring. 0-360° will represent 0-60 seconds, 0-60 minutes, and 0-24 hours. The colors will change according to a red to blue gradient. The gradient from blue to red depicts the spectrum of 0-60 seconds, 0-60 minutes, and 0-24 hours.
 
+Read Below for Date Related Ideas:
+
+Idea #7: 
+The 7 rectangluar boxes represent the 7 days of the week. The darker, grayed-out boxes represent the other days of the week while the brightest box highlights the day of the week. The first box on the left represents Sunday. As you move to the right, the days increase by 1, therefore, depicting Sunday, Monday, Tuesday, etc. The position of this row of boxes indicates what day of the month it is. The top of the canvas represents day 1 of the month while the bottom of the canvas represents the max amount of days in the month (in this case, the max is 30 days). 
+
+Idea #8:
+The circle represents the moon's orbit. The rectangle mapped onto the circle represents the season. The rectangles have been positioned to correspond with the positon of the moon during each season's equinox. In this case, the orientation of the rectangle paired with its placement within the moon's orbit, helps to depict which season it is. Therefore, the placement of the rectangle is heavily tied to how the circle represents the moon's orbit. The circles also vary in size to show the distance that the moon is from Earth during that particular moment.
+
+Idea #9: 
+This concept represents season and year. The four squares use hue to depict which season it is. Each season is assigned a hue. The shape found in the top left corner of the top left square uses shape as its retinal variable to determine the year. Each year will have its own, distinguishable shape. 
+
+
