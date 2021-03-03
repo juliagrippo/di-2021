@@ -11,7 +11,7 @@ function setup() {
 
   // print the time to the console once at the beginning of the run. try opening up the
   // web inspector and poking around to see the various values the clock function gives you
-  print('starting time:', clock())
+  // print('starting time:', clock())
 
 }
 
@@ -34,14 +34,14 @@ function draw() {
   background('black');
 
   // set up typography & drawing-color
-  textFont("Anonymous Pro"); // ← check index.html to see how it was loaded from google-fonts
-  textSize(18); // make it big
-  noStroke();
-  fill(255);
+  // textFont("Anonymous Pro"); // ← check index.html to see how it was loaded from google-fonts
+  // textSize(18); // make it big
+  // noStroke();
+  // fill(255);
 
   // draw the time string to the canvas
-  text(now.text.date, 30, 50)
-  text(now.text.time, 30, 100)
+  // text(now.text.date, 30, 50)
+  // text(now.text.time, 30, 100)
 
   noFill();
   stroke(255);
@@ -51,23 +51,23 @@ function draw() {
   fill(62,62,255);
   noStroke(255);
   strokeWeight(3);
-  circle(origin.x, origin.y, 35);
+  circle(minLocation.x, minLocation.y, 35);
 
-  noFill();
-  stroke(255);
-  circle(250,275,260);
-
-  fill(64,151,255);
-  noStroke(255);
-  strokeWeight(3);
-  circle(250,147,25);
-
-  noFill();
-  stroke(255);
-  circle(250,275,150);
-
-  fill(67,220,255);
-  noStroke(255);
-  strokeWeight(3);
-  circle(250,202,20);
+  // noFill();
+  // stroke(255);
+  // circle(250,275,260);
+  //
+  // fill(64,151,255);
+  // noStroke(255);
+  // strokeWeight(3);
+  // circle(250,147,25);
+  //
+  // noFill();
+  // stroke(255);
+  // circle(250,275,150);
+  //
+  // fill(67,220,255);
+  // noStroke(255);
+  // strokeWeight(3);
+  // circle(250,202,20);
 }
