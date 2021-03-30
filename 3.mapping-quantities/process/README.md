@@ -34,3 +34,9 @@ Compares atmospheric and underground testing in the US.
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165831/
 
+https://ourworldindata.org/search?q=number+of+people+with+cancer
+
+For the additional data source charts, I am interesting in finding a way to compare atmospheric testing in the US and Russia against the amount of cancer cases that appear in both countries following these tests. I am most interested possibly in lung cancer since I think that makes the most sense with atmospheric testing. 
+
+Both sketches depict ways to combine line graphs (as a way of depicting time and the long-run) with a representation of atmospheric versus underground testing.
+
