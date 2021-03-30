@@ -1,0 +1,19 @@
+radionuclide,half-life,thyroid or red marrow dose,thyroid internal dose,red bone marrow internal dose
+carbon-14,5730 y,-,-,-
+cesium-137,30 y,0.01,0.09,0.009
+strontium-90,28.5 y,-,-,0.02
+tritium,12.3 y,-,-,-
+antimony-125,2.7 y,-,-,-
+ruthenium-106,368 d,-,0.001,0.002
+manganese-54,313 d,-,-,-
+cerium-144,284 d,-,-,-
+zirconium/niobium-95,64 d,0.08,-,-
+strontium-89,52 d,-,0.001,0.03
+ruthenium-103,39 d,0.03,-,-
+cesium-136,13 d,-,0.002,0.002
+barium/lanthanum-140,13 d,0.2,-,0.006
+iodine-131,8 d,0.02,5,0.001
+tellurium/iodine-132,3.3 d,0.1,0.06,0.001
+neptunium-239,2.4 d,0.02,-,-
+iodine-133,0.9 d,0.02,0.04,-
+zirconium/niobium-97,17 h,0.02,-,-
